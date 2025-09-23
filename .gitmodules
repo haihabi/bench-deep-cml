@@ -1,0 +1,3 @@
+[submodule "PyNNcml"]
+	path = PyNNcml
+	url = https://github.com/haihabi/PyNNcml
